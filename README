@@ -1,0 +1,4 @@
+Hand written digit recognition
+
+This project is about building a classifier for hand digit recognition. The data which we are going to use for training our model is MNIST dataset.
+
