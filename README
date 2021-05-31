@@ -2,3 +2,4 @@ Hand written digit recognition
 
 This project is about building a classifier for hand digit recognition. The data which we are going to use for training our model is MNIST dataset.
 
+In the project, Dimensionality reduction technique, PCA will be used. And further the model will be   trained on it.
